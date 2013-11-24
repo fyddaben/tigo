@@ -1,0 +1,24 @@
+{
+  "name": "tigo",
+  "version": "0.0.1",
+  "authors": [
+    "Li Yi <i@ijser.cn>"
+  ],
+  "description": "tigo install",
+  "main": "app.js",
+  "keywords": [
+    "node.js",
+    "express"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
